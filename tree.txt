@@ -1,0 +1,64 @@
+# This tree output has been edited to summarize our repo structure
+# 12/5/21
+.
+├── Project2_Proposal.pdf
+├── Project_2_description.ipynb
+├── README.md
+├── code
+│   ├── Jupyter
+│   │   ├── BB
+│   │   │   └── # Bronte's Jupyter Notebooks
+│   │   ├── CM
+│   │   │   └── # Christian's Jupyter Notebooks
+│   │   ├── JJ
+│   │   │   └── # Jean-Lucas Jupyter Notebooks
+│   │   ├── RR
+│   │   │   └── # Richard's Jupyter Notebooks
+│   │   ├── filter_county_returns.ipynb
+│   │   ├── filter_presidential_ads.ipynb
+│   │   ├── load_enriched_county_results.ipynb
+│   │   └── load_presidential_ads.ipynb
+│   └── Python
+│       ├── BB
+│       │   └── # Bronte's Python scripts
+│       ├── CM
+│       │   └── # Christian's Python scripts
+│       ├── JJ
+│       │   └── # Jean-Luc's Python scripts
+│       ├── RR
+│       │   └── # Richard's Python scripts
+│       ├── awesome_puppies.py
+│       └── test_pups.py
+├── datasets
+│   ├── MIT_Election_Lab
+│   │   ├── 2016-precinct-president.csv
+│   │   ├── enriched_county_pres_2016.gz
+│   │   └── region_county_makeup.csv
+│   │   └── url_link.txt
+│   ├── Political_TV_Ad_Archive
+│   │   ├── political_ad_entire_dataset.csv
+│   │   ├── political_ad_pres_airing_from_june.gz
+│   │   ├── political_ad_unique_entire_dataset.csv
+│   │   ├── sponsor_correlation.csv
+│   │   └── url_link.txt
+│   └── README.md
+├── final_report_code
+│   ├── jupyter_notebooks
+│   │   └── final_report_figures.ipynb
+│   └── python_files
+│       ├── awesome_puppies.py
+│       └── maps.py
+├── output
+│   ├── Proposal
+│   │   └── # Proposal Visualizations
+│   └── create_subfolders_as_you_need.txt
+├── report
+│   ├── BB_figs
+│   │   └── # Bronte's Figures for Final Report
+│   ├── JL_figs
+│   │   └── # Jean-Luc's Figures for Final Report
+│   └── figs
+│       └── # Christian's Figures for Final Report
+└── tree.txt
+
+26 directories, 116 files

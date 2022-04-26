@@ -1,0 +1,275 @@
+region_id,state,county_name
+tampa_region,FLORIDA,CITRUS
+tampa_region,FLORIDA,HARDEE
+tampa_region,FLORIDA,HERNANDO
+tampa_region,FLORIDA,HIGHLANDS
+tampa_region,FLORIDA,HILLSBOROUGH
+tampa_region,FLORIDA,MANATEE
+tampa_region,FLORIDA,PASCO
+tampa_region,FLORIDA,PINELLAS
+tampa_region,FLORIDA,POLK
+tampa_region,FLORIDA,SARASOTA
+philadelphia_region,PENNSYLVANIA,BERKS
+philadelphia_region,PENNSYLVANIA,BUCKS
+philadelphia_region,PENNSYLVANIA,CHESTER
+philadelphia_region,PENNSYLVANIA,DELAWARE
+philadelphia_region,PENNSYLVANIA,LEHIGH
+philadelphia_region,PENNSYLVANIA,MONTGOMERY
+philadelphia_region,PENNSYLVANIA,NORTHAMPTON
+philadelphia_region,PENNSYLVANIA,PHILADELPHIA
+philadelphia_region,NEW JERSEY,ATLANTIC
+philadelphia_region,NEW JERSEY,BURLINGTON
+philadelphia_region,NEW JERSEY,CAMDEN
+philadelphia_region,NEW JERSEY,CAPE MAY
+philadelphia_region,NEW JERSEY,CUMBERLAND
+philadelphia_region,NEW JERSEY,GLOUCESTER
+philadelphia_region,NEW JERSEY,MERCER
+philadelphia_region,NEW JERSEY,SALEM
+philadelphia_region,DELAWARE,KENT
+philadelphia_region,DELAWARE,NEW CASTLE
+las_vegas_region,NEVADA,CLARK
+las_vegas_region,NEVADA,LINCOLN
+las_vegas_region,NEVADA,NYE
+cleveland_region,OHIO,ASHLAND
+cleveland_region,OHIO,ASHTABULA
+cleveland_region,OHIO,CARROLL
+cleveland_region,OHIO,CUYAHOGA
+cleveland_region,OHIO,ERIE
+cleveland_region,OHIO,GEAUGA
+cleveland_region,OHIO,HOLMES
+cleveland_region,OHIO,HURON
+cleveland_region,OHIO,LAKE
+cleveland_region,OHIO,LORAIN
+cleveland_region,OHIO,MEDINA
+cleveland_region,OHIO,PORTAGE
+cleveland_region,OHIO,RICHLAND
+cleveland_region,OHIO,STARK
+cleveland_region,OHIO,SUMMIT
+cleveland_region,OHIO,TUSCARAWAS
+cleveland_region,OHIO,WAYNE
+san_francisco_region,CALIFORNIA,ALAMEDA
+san_francisco_region,CALIFORNIA,CONTRA COSTA
+san_francisco_region,CALIFORNIA,LAKE
+san_francisco_region,CALIFORNIA,MARIN
+san_francisco_region,CALIFORNIA,MENDOCINO
+san_francisco_region,CALIFORNIA,NAPA
+san_francisco_region,CALIFORNIA,SAN FRANCISCO
+san_francisco_region,CALIFORNIA,SAN MATEO
+san_francisco_region,CALIFORNIA,SANTA CLARA
+san_francisco_region,CALIFORNIA,SOLANO
+san_francisco_region,CALIFORNIA,SONOMA
+raleigh_region,NORTH CAROLINA,CHATHAM
+raleigh_region,NORTH CAROLINA,CUMBERLAND
+raleigh_region,NORTH CAROLINA,DURHAM
+raleigh_region,NORTH CAROLINA,EDGECOMBE
+raleigh_region,NORTH CAROLINA,FRANKLIN
+raleigh_region,NORTH CAROLINA,GRANVILLE
+raleigh_region,NORTH CAROLINA,HALIFAX
+raleigh_region,NORTH CAROLINA,HARNETT
+raleigh_region,NORTH CAROLINA,HOKE
+raleigh_region,NORTH CAROLINA,JOHNSTON
+raleigh_region,NORTH CAROLINA,LEE
+raleigh_region,NORTH CAROLINA,MOORE
+raleigh_region,NORTH CAROLINA,NASH
+raleigh_region,NORTH CAROLINA,NORTHAMPTON
+raleigh_region,NORTH CAROLINA,ORANGE
+raleigh_region,NORTH CAROLINA,PERSON
+raleigh_region,NORTH CAROLINA,SAMPSON
+raleigh_region,NORTH CAROLINA,VANCE
+raleigh_region,NORTH CAROLINA,WAKE
+raleigh_region,NORTH CAROLINA,WARREN
+raleigh_region,NORTH CAROLINA,WAYNE
+raleigh_region,NORTH CAROLINA,WILSON
+raleigh_region,VIRGINIA,MECKLENBURG
+cedar_rapids_region,IOWA,ALLAMAKEE
+cedar_rapids_region,IOWA,BENTON
+cedar_rapids_region,IOWA,BLACK HAWK
+cedar_rapids_region,IOWA,BREMER
+cedar_rapids_region,IOWA,BUCHANAN
+cedar_rapids_region,IOWA,BUTLER
+cedar_rapids_region,IOWA,CEDAR
+cedar_rapids_region,IOWA,CHICKASAW
+cedar_rapids_region,IOWA,CLAYTON
+cedar_rapids_region,IOWA,DELAWARE
+cedar_rapids_region,IOWA,DUBUQUE
+cedar_rapids_region,IOWA,FAYETTE
+cedar_rapids_region,IOWA,GRUNDY
+cedar_rapids_region,IOWA,IOWA
+cedar_rapids_region,IOWA,JOHNSON
+cedar_rapids_region,IOWA,JONES
+cedar_rapids_region,IOWA,KEOKUK
+cedar_rapids_region,IOWA,LINN
+cedar_rapids_region,IOWA,TAMA
+cedar_rapids_region,IOWA,WASHINGTON
+cedar_rapids_region,IOWA,WINNESHIEK
+boston_region,MASSACHUSETTS,BARNSTABLE
+boston_region,MASSACHUSETTS,DUKES
+boston_region,MASSACHUSETTS,ESSEX
+boston_region,MASSACHUSETTS,MIDDLESEX
+boston_region,MASSACHUSETTS,NANTUCKET
+boston_region,MASSACHUSETTS,NORFOLK
+boston_region,MASSACHUSETTS,PLYMOUTH
+boston_region,MASSACHUSETTS,SUFFOLK
+boston_region,MASSACHUSETTS,WORCESTER
+boston_region,NEW HAMPSHIRE,BELKNAP
+boston_region,NEW HAMPSHIRE,CHESHIRE
+boston_region,NEW HAMPSHIRE,HILLSBOROUGH
+boston_region,NEW HAMPSHIRE,MERRIMACK
+boston_region,NEW HAMPSHIRE,ROCKINGHAM
+boston_region,NEW HAMPSHIRE,STRAFFORD
+boston_region,VERMONT,WINDHAM
+denver_region,COLORADO,ADAMS
+denver_region,COLORADO,ALAMOSA
+denver_region,COLORADO,ARAPAHOE
+denver_region,COLORADO,ARCHULETA
+denver_region,COLORADO,BOULDER
+denver_region,COLORADO,BROOMFIELD
+denver_region,COLORADO,CHAFFEE
+denver_region,COLORADO,CLEAR CREEK
+denver_region,COLORADO,CONEJOS
+denver_region,COLORADO,CUSTER
+denver_region,COLORADO,DELTA
+denver_region,COLORADO,DENVER
+denver_region,COLORADO,DOUGLAS
+denver_region,COLORADO,EAGLE
+denver_region,COLORADO,ELBERT
+denver_region,COLORADO,GARFIELD
+denver_region,COLORADO,GILPIN
+denver_region,COLORADO,GRAND
+denver_region,COLORADO,GUNNISON
+denver_region,COLORADO,HINSDALE
+denver_region,COLORADO,JACKSON
+denver_region,COLORADO,JEFFERSON
+denver_region,COLORADO,KIT CARSON
+denver_region,COLORADO,LAKE
+denver_region,COLORADO,LARIMER
+denver_region,COLORADO,LINCOLN
+denver_region,COLORADO,LOGAN
+denver_region,COLORADO,MINERAL
+denver_region,COLORADO,MOFFAT
+denver_region,COLORADO,MORGAN
+denver_region,COLORADO,OURAY
+denver_region,COLORADO,PARK
+denver_region,COLORADO,PHILLIPS
+denver_region,COLORADO,PITKIN
+denver_region,COLORADO,PROWERS
+denver_region,COLORADO,RIO BLANCO
+denver_region,COLORADO,RIO GRANDE
+denver_region,COLORADO,ROUTT
+denver_region,COLORADO,SAGUACHE
+denver_region,COLORADO,SAN JUAN
+denver_region,COLORADO,SAN MIGUEL
+denver_region,COLORADO,SEDGWICK
+denver_region,COLORADO,SUMMIT
+denver_region,COLORADO,WASHINGTON
+denver_region,COLORADO,WELD
+denver_region,COLORADO,YUMA
+denver_region,NEBRASKA,BOX BUTTE
+denver_region,NEBRASKA,CHEYENNE
+denver_region,NEBRASKA,DAWES
+denver_region,NEBRASKA,DEUEL
+denver_region,NEBRASKA,GARDEN
+denver_region,NEBRASKA,KEITH
+denver_region,NEBRASKA,KIMBALL
+denver_region,WYOMING,ALBANY
+denver_region,WYOMING,CAMPBELL
+denver_region,WYOMING,CARBON
+denver_region,WYOMING,NIOBRARA
+denver_region,WYOMING,PLATTE
+milwaukee_region,WISCONSIN,DODGE
+milwaukee_region,WISCONSIN,JEFFERSON
+milwaukee_region,WISCONSIN,KENOSHA
+milwaukee_region,WISCONSIN,MILWAUKEE
+milwaukee_region,WISCONSIN,OZAUKEE
+milwaukee_region,WISCONSIN,RACINE
+milwaukee_region,WISCONSIN,SHEBOYGAN
+milwaukee_region,WISCONSIN,WALWORTH
+milwaukee_region,WISCONSIN,WASHINGTON
+milwaukee_region,WISCONSIN,WAUKESHA
+phoenix_region,ARIZONA,APACHE
+phoenix_region,ARIZONA,COCONINO
+phoenix_region,ARIZONA,GILA
+phoenix_region,ARIZONA,GRAHAM
+phoenix_region,ARIZONA,GREENLEE
+phoenix_region,ARIZONA,LA PAZ
+phoenix_region,ARIZONA,MARICOPA
+phoenix_region,ARIZONA,MOHAVE
+phoenix_region,ARIZONA,NAVAJO
+phoenix_region,ARIZONA,PINAL
+phoenix_region,ARIZONA,YAVAPAI
+washington_dc_region,DISTRICT OF COLUMBIA,DISTRICT OF COLUMBIA
+washington_dc_region,VIRGINIA,ALEXANDRIA
+washington_dc_region,VIRGINIA,ALEXANDRIA CITY
+washington_dc_region,VIRGINIA,ARLINGTON
+washington_dc_region,VIRGINIA,CLARKE
+washington_dc_region,VIRGINIA,CULPEPER
+washington_dc_region,VIRGINIA,FAIRFAX
+washington_dc_region,VIRGINIA,FAIRFAX CITY
+washington_dc_region,VIRGINIA,FALLS CHURCH
+washington_dc_region,VIRGINIA,FALLS CHURCH CITY
+washington_dc_region,VIRGINIA,FAUQUIER
+washington_dc_region,VIRGINIA,FREDERICK
+washington_dc_region,VIRGINIA,FREDERICKSBURG
+washington_dc_region,VIRGINIA,FREDERICKSBURG CITY
+washington_dc_region,VIRGINIA,KING GEORGE
+washington_dc_region,VIRGINIA,LOUDOUN
+washington_dc_region,VIRGINIA,MANASSAS
+washington_dc_region,VIRGINIA,MANASSAS CITY
+washington_dc_region,VIRGINIA,MANASSAS PARK
+washington_dc_region,VIRGINIA,MANASSAS PARK CITY
+washington_dc_region,VIRGINIA,PAGE
+washington_dc_region,VIRGINIA,PRINCE WILLIAM
+washington_dc_region,VIRGINIA,RAPPAHANNOCK
+washington_dc_region,VIRGINIA,SHENANDOAH
+washington_dc_region,VIRGINIA,SPOTSYLVANIA
+washington_dc_region,VIRGINIA,STAFFORD
+washington_dc_region,VIRGINIA,WARREN
+washington_dc_region,VIRGINIA,WESTMORELAND
+washington_dc_region,VIRGINIA,WINCHESTER
+washington_dc_region,VIRGINIA,WINCHESTER CITY
+washington_dc_region,MARYLAND,ALLEGANY
+washington_dc_region,MARYLAND,CALVERT
+washington_dc_region,MARYLAND,CHARLES
+washington_dc_region,MARYLAND,FREDERICK
+washington_dc_region,MARYLAND,MONTGOMERY
+washington_dc_region,MARYLAND,PRINCE GEORGE'S
+washington_dc_region,MARYLAND,ST. MARY'S
+washington_dc_region,MARYLAND,WASHINGTON
+washington_dc_region,WEST VIRGINIA,BERKELEY
+washington_dc_region,WEST VIRGINIA,GRANT
+washington_dc_region,WEST VIRGINIA,HAMPSHIRE
+washington_dc_region,WEST VIRGINIA,HARDY
+washington_dc_region,WEST VIRGINIA,JEFFERSON
+washington_dc_region,WEST VIRGINIA,MINERAL
+washington_dc_region,WEST VIRGINIA,MORGAN
+washington_dc_region,PENNSYLVANIA,FRANKLIN
+washington_dc_region,PENNSYLVANIA,FULTON
+new_york_city_region,NEW YORK,BRONX
+new_york_city_region,NEW YORK,DUTCHESS
+new_york_city_region,NEW YORK,KINGS
+new_york_city_region,NEW YORK,NASSAU
+new_york_city_region,NEW YORK,NEW YORK
+new_york_city_region,NEW YORK,ORANGE
+new_york_city_region,NEW YORK,PUTNAM
+new_york_city_region,NEW YORK,QUEENS
+new_york_city_region,NEW YORK,RICHMOND
+new_york_city_region,NEW YORK,ROCKLAND
+new_york_city_region,NEW YORK,SUFFOLK
+new_york_city_region,NEW YORK,SULLIVAN
+new_york_city_region,NEW YORK,ULSTER
+new_york_city_region,NEW YORK,WESTCHESTER
+new_york_city_region,CONNECTICUT,FAIRFIELD
+new_york_city_region,NEW JERSEY,BERGEN
+new_york_city_region,NEW JERSEY,ESSEX
+new_york_city_region,NEW JERSEY,HUDSON
+new_york_city_region,NEW JERSEY,HUNTERDON
+new_york_city_region,NEW JERSEY,MIDDLESEX
+new_york_city_region,NEW JERSEY,MONMOUTH
+new_york_city_region,NEW JERSEY,MORRIS
+new_york_city_region,NEW JERSEY,OCEAN
+new_york_city_region,NEW JERSEY,PASSAIC
+new_york_city_region,NEW JERSEY,SOMERSET
+new_york_city_region,NEW JERSEY,SUSSEX
+new_york_city_region,NEW JERSEY,UNION
+new_york_city_region,NEW JERSEY,WARREN
+new_york_city_region,PENNSYLVANIA,PIKE
