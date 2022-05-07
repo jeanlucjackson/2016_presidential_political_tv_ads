@@ -1,5 +1,6 @@
 # Group Project
-*Bronte Baer, Jean-Luc Jackson, Christian Montecillo, Richard Robbins*
+*Bronte Baer, Jean-Luc Jackson, Christian Montecillo, Richard Robbins*  
+
 The work included within was a team collaboration between the authors, all contributing in equal parts through each project phase.
 
 ## Repo Description
